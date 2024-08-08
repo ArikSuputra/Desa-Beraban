@@ -1,0 +1,8 @@
+.equal-size-img {
+    width: 100%;
+    /* Lebar gambar 100% */
+    height: 200px;
+    /* Tinggi gambar yang diinginkan */
+    overflow: hidden;
+    /* Mengatasi gambar dengan tinggi yang lebih besar */
+}
